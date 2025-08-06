@@ -1,0 +1,1 @@
+ hoje aprendi como iniciar um projeto git, adicionar arquivos ,fazer comintis e conectar um repositorio remoto no github, isso me ajudou a entender o controle de versões de forma pratica
